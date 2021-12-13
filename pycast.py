@@ -3,7 +3,7 @@ from typing import ClassVar
 
 
 # Set the download directory path:
-download_directory_path = "/home/josip/Podcasts"
+download_directory_path = "SET_YOUR_DOWNLOADS_PATH"
 
 # Subscriptions file path:
 subscriptions_file_path = "{}/.subscriptions.csv".format(download_directory_path)
